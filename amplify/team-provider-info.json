@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify6903f18f27574-staging-105707-authRole",
+      "UnauthRoleArn": "arn:aws:iam::609622251264:role/amplify-amplify6903f18f27574-staging-105707-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::609622251264:role/amplify-amplify6903f18f27574-staging-105707-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify6903f18f27574-staging-105707-deployment",
+      "UnauthRoleName": "amplify-amplify6903f18f27574-staging-105707-unauthRole",
+      "StackName": "amplify-amplify6903f18f27574-staging-105707",
+      "StackId": "arn:aws:cloudformation:us-east-1:609622251264:stack/amplify-amplify6903f18f27574-staging-105707/1ad98010-d5fc-11ed-8138-12ff69320e69",
+      "AmplifyAppId": "d3mb31gvbfs3gn"
+    },
+    "categories": {
+      "auth": {
+        "sileyefashion96426418": {}
+      }
+    }
+  }
+}
